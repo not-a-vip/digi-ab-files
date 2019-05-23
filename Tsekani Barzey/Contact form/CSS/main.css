@@ -1,0 +1,41 @@
+body{
+    font-family: cursive, sans-serif, Helvetica,;
+    background-image: linear-gradient(#ff00ff,#000088 ,#36608a);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: aliceblue;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+    margin-left: 500px;
+}
+
+section{
+    width: 500px;
+}
+
+textarea{
+    width: 500px;
+}
+
+
+button{
+    width: 500px;
+    height: 40px;
+    background-color: cadetblue;
+}
+
+p{
+    align-self: flex-start;
+    align-content: flex-start;
+    align-items: flex-start;
+    text-align: 
+}
+.label{
+    align-self: flex-start;
+    align-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+}

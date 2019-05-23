@@ -1,0 +1,11 @@
+body{
+    background:red;
+}
+
+.toprnav ul{
+    float:right;
+}
+
+.toprnav li{
+    display:inline;
+}

@@ -1,0 +1,39 @@
+body{
+    font-family: Calibri, Arial, Helvetica, san-serif;
+    font-size: 15PX;
+    padding: 0;
+    margin: 0;
+    background-color: #ffffff;
+    
+}
+
+.container{
+width: 85%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header{
+    background: #2d2d2dfa;
+    padding-top: 30px;
+    min-height: 70px;
+}
+
+header a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+header li{
+    float: none;
+    display: inline;
+    padding: 0 20px 0 20px
+}
+
+nav ul{
+    align-self: center;
+}
+
+
+
